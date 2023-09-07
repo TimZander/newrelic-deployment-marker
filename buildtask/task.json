@@ -12,11 +12,11 @@
         "Agent",
         "DeploymentGroup"
     ],
-    "author": "Noman Sadiq",
+    "author": "Noman Sadiq/Tim Zander",
     "version": {
         "Major": 1,
         "Minor": 3,
-        "Patch": 6
+        "Patch": 7
     },
     "instanceNameFormat": "NewRelic Deployment Marker",
     "groups": [
