@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
     "id": "NewRelicDeploymentMarker",
-    "version": "1.3.7",
+    "version": "1.3.8",
     "name": "NewRelic Deployment Marker",
     "description": "This task is developed for deployment marker in NewRelic for the application via Azure DevOps Pipelines.",
     "publisher": "TimZander",
